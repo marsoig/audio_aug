@@ -4,6 +4,6 @@ For an audio file, applies random augmentation in pitch, volume and (with 50% ch
 To install, in base_audioaugmentation run:
 `pip install .`
 To run on file, do:
-`audio_augmentation filename`
+`audio_augment filename`
 To test, do:
-`audio_augmentation_test`
+`audio_augment_test`
