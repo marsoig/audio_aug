@@ -1,5 +1,5 @@
 ## A package for augmentation of audio data
-For an audio file, applies random augmentation in pitch, volume and (with 50% chance) highpass filter.
+For an audio file of any format, applies random augmentation in pitch, volume and (with 50% chance) highpass filter.
 ### Usage:
 To install, in base_audioaugmentation run:
 `pip install .`
