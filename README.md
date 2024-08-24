@@ -1,5 +1,7 @@
 ## A test task for a Data Scientist job
 
+Task description:
+
 1. Write a processor (function/class) that augments audio data.
 The number of augmentations is up to you.
 
