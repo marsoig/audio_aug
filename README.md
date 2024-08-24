@@ -12,9 +12,13 @@ This processor receives a numpy array with an audio signal as input, shape=(num_
 The output is a similar (same dtype, order and num_channels, but num_samples may differ) signal in the form of a numpy array.
 
 2. Write a CLI application that
+
 1). takes the path to an audio file as input
+
 2). reads it into a numpy array
+
 3). augments it using the processor from step 1
+
 4). saves the result into an audio file.
    
 Additional conditions and restrictions
